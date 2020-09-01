@@ -1,0 +1,4 @@
+Click ~= 7.0
+appdirs ~= 1.4.3
+ruamel.yaml ~= 0.15.96
+git+https://github.com/Aalto-LeTech/a-plus-client.git

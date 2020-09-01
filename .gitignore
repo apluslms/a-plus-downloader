@@ -1,0 +1,4 @@
+*.pyc
+/_cache/
+/_config/
+/venv/
